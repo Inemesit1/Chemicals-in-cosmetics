@@ -1,5 +1,5 @@
 # Chemicals-in-cosmetics
---Questions Answered
+This Part of the project shows the questions and the queries to the questions 
 
 --Find out which chemicals were used the most in cosmetics and personal care products
 select chemicalname, count(chemicalname) as ChemicalsUsedTheMost
